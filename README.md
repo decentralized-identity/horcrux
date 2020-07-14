@@ -13,7 +13,7 @@ propose specification and implementation of a decentralized biometric
 credential storage option via blockchains using DIDs and DID documents
 within the IEEE 2410-2017 Biometric Open Protocol Standard (BOPS).
 
-Authors: Asem Othman and John Callahan, Veridium IP Ltd, 
+Authors: Asem Othman and John Callahan, Veridium IP Ltd
 
 Keywords: Blockchain, IEEE BOPS, self-sovereign identity,
 authentication factors, digital identity, distributed authentication
